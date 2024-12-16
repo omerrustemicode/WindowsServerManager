@@ -23,4 +23,7 @@ The **Computer Management App** is a Windows application built using C# and WPF.
 - **.NET Framework**: Ensure that you have the .NET Framework 4.7.2 or later installed on your system.
 - **Visual Studio**: You'll need Visual Studio (or any C# compatible IDE) to build and run this project.
 
-![Description of the image](ComputerManager.png)
+![MainWindow of Project](ServerManager.png)
+
+### Buy Me a Coffee
+![BMC](bmc_qr.png)
