@@ -1,0 +1,15 @@
+﻿<Window x:Class="ComputerManagment.ComputerPerformanceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Computer Performance" Height="300" Width="400">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="CPU Usage:" />
+            <TextBlock x:Name="CPUUsageText" FontWeight="Bold" />
+            <TextBlock Text="RAM Usage:" />
+            <TextBlock x:Name="RAMUsageText" FontWeight="Bold" />
+            <TextBlock Text="Disk Usage:" />
+            <TextBlock x:Name="DiskUsageText" FontWeight="Bold" />
+        </StackPanel>
+    </Grid>
+</Window>

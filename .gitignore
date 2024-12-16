@@ -1,0 +1,12 @@
+# Ignore specific SavedCredentials.json
+bin/Debug/net8.0-windows/SavedCredentials.json
+
+# Ignore all debug and bin folders
+bin/
+obj/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
