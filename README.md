@@ -25,5 +25,4 @@ The **Computer Management App** is a Windows application built using C# and WPF.
 
 ![MainWindow of Project](ServerManagment.png)
 
-### Buy Me a Coffee
-![BMC](bmc_qr.png)
+
